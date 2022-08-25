@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="select_location">Select your location</string>
+    <string name="current">Current Location</string>
+    <string name="typed">Enter Location</string>
+    <string name="enter_location">Enter your Location</string>
+    <string name="fetch_details">Fetch Details</string>
+    <string name="cel">°C</string>
+
+    <string name="wind">S wind \n%1$s meter/sec</string>
+    <string name="humidity">Humidity \n%1$s </string>
+    <string name="error">Need Api key for next 7 day forecast weather detail</string>
+</resources>
